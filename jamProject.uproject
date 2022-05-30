@@ -55,5 +55,9 @@
 				"Linux"
 			]
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor",
+		"MacNoEditor"
 	]
 }
